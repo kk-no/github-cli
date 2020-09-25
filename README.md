@@ -21,7 +21,7 @@ gh repo fork github-cli
 
 ### pull request
 
-// list
+// list  
 gh pr list
 
 // create   
